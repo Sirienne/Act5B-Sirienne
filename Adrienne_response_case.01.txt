@@ -10,7 +10,7 @@ Questions:
 2. What indicators make the activity suspicious?
 - The indicators that is suspicious is there are multiple attempts by IP address 185.45.22.14.
 3. What immediate action should the SOC analyst perform?
-- The immediate action that I will take is to be cautious about security and I will make sure the security account level is high.
+- The immediate action that I will take is to be cautious about the security and I will make sure the security account level is high.
 4. What severity level should be assigned?
 - The severity level is "medium".
 5. Give one recommendation to prevent this attack.
